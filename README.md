@@ -12,7 +12,7 @@ Ariel 4077625, Israel
 
 <hr/>
  
-<h2 align="center">⚒️ Knowlegde ⚒️</h2>
+<h2 align="center">⚒️ Knowledge ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,python,androidstudio,firebase,mongodb,mysql,unity,unreal,git,linux" /><br>
